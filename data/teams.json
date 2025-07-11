@@ -1,0 +1,105 @@
+[
+  {
+    "name": "T1",
+    "abbreviation":"T1",
+    "region": "LCK",
+    "players": [
+      { 
+        "name": "Doran",
+        "full_name": "Choi Hyeon-joon",
+        "age": 24,
+        "birthday": "2000-7-22",
+        "nationality": "South Korea",
+
+        "role": "Top Laner",
+        "potential": "Exact Elite",
+
+        "overall": 88,
+
+            "macro/awareness": 86,
+                "map_awareness": 86,
+                "vision_control": 83,
+                "objective_contribution": 85,
+                "rotations": 85,
+                "shotcalling": 85,
+
+            "laning/early Game": 85,
+                "farming": 86,
+                "trading": 84,
+                "survivability": 85,
+                "wave_control": 86,
+                "early_impact": 83,
+            
+            "fighting/skirmishing": 87,
+                "positioning": 87,
+                "target_selection": 86,
+                "ability_usage": 88,
+                "initiation": 90,
+                "teamfight_adaptability": 86,
+            
+            "micro/mechanics": 86,
+                "reaction_time": 88,
+                "combo_execution": 87,
+                "skill_accuracy": 86,
+                "input_consistency": 88,
+                "dodging": 85,
+                "kiting": 83,
+
+            "mental/personality": 85,
+                "clutch_factor": 86,
+                "tilt_resistance": 85,
+                "consistency": 85,
+                "communication": 83,
+                "leadership": 81,
+
+            "champions/versatility": 81,
+                "pool_depth": 83,
+                "meta_flexibility": 81,
+                "playstyle_adaptation": 80,
+                "signature_pick_impact": 84,
+                "counterpick_value": 79
+    
+    },
+    { 
+        "name": "Oner",
+        "full_name": "Mun Hyeon-jun",
+        "age": 22,
+        "birthday": "2002-12-24",
+        "nationality": "South Korea",
+
+        "role": "Jungler",
+        "potential": "Medium Franchise"
+    },
+    { 
+        "name": "Faker",
+        "full_name": "Lee Sang-hyeok",
+        "age": 28,
+        "birthday": "1996-05-07",
+        "nationality": "South Korea",
+
+        "role": "Mid Laner",
+        "potential": "Exact Hall of Fame"
+    },
+    { 
+        "name": "Gumayusi",
+        "full_name": "Lee Min-hyeong",
+        "age": 22,
+        "birthday": "2002-02-06",
+        "nationality": "South Korea",
+
+        "role": "Bot Laner",
+        "potential": "High Elite"
+    },
+    { 
+        "name": "Keria",
+        "full_name": "Ryu Min-seok",
+        "age": 22,
+        "birthday": "2002-10-14",
+        "nationality": "South Korea",
+
+        "role": "Support",
+        "potential": "High Franchise"
+    }
+    ]
+  }
+]
