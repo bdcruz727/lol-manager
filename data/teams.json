@@ -1,9 +1,10 @@
 [
   {
-    "name": "T1",
-    "abbreviation":"T1",
-    "region": "LCK",
-    "players": [
+    "team_name": "T1",
+    "team_abbreviation":"T1",
+    "team_id":"t1",
+    "team_region": "LCK",
+    "team_players": [
       { 
         "name": "Doran",
         "full_name": "Choi Hyeon-joon",
@@ -71,7 +72,7 @@
         "potential": "Legend",
         "potential_tier": "Low",
 
-        "overall": 91,
+        "overall": 92,
             "macro": 95,
                 "map_awareness": 97,
                 "vision_control": 95,
@@ -79,19 +80,19 @@
                 "rotations": 93,
                 "shotcalling": 91,
 
-            "laning": 90,
-                "farming": 89,
-                "trading": 91,
+            "laning": 92,
+                "farming": 91,
+                "trading": 92,
                 "survivability": 91,
-                "wave_control": 87,
-                "early_impact": 90,
+                "wave_control": 89,
+                "early_impact": 94,
             
-            "fighting": 91,
-                "positioning": 90,
-                "target_selection": 92,
+            "fighting": 92,
+                "positioning": 92,
+                "target_selection": 93,
                 "ability_usage": 94,
-                "initiation": 94,
-                "teamfight_adaptability": 85,
+                "initiation": 95,
+                "teamfight_adaptability": 87,
             
             "mechanics": 89,
                 "reaction_time": 92,
@@ -101,12 +102,12 @@
                 "dodging": 87,
                 "kiting": 81,
 
-            "personality": 87,
+            "personality": 89,
                 "clutch_factor": 90,
                 "composure": 88,
                 "consistency": 88,
-                "communication": 83,
-                "leadership": 83,
+                "communication": 89,
+                "leadership": 87,
 
             "champions": 86,
                 "pool_depth": 88,
@@ -284,10 +285,11 @@
   },
 
   {
-    "name": "Gen.G",
-    "abbreviation":"GEN",
-    "region": "LCK",
-    "players": [
+    "team_name": "Gen.G",
+    "team_abbreviation":"GEN",
+    "team_id": "geng",
+    "team_region": "LCK",
+    "team_players": [
       { 
         "name": "Kiin",
         "full_name": "Kim Gi-in",
