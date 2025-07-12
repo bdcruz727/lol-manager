@@ -15,11 +15,16 @@ class MainWindow(QWidget):
         # Title label
         self.label = QLabel("LCK Franchise Simulator")
         self.label.setStyleSheet("font-size: 20px; font-weight: bold;")
-        self.label.setAlignment(Qt.AlignCenter)  # ✅ This centers the text
+        self.label.setAlignment(Qt.AlignCenter)
 
         # Team selectors
         self.team1_box = QComboBox()
         self.team1_box.setFixedSize(200, 40)
+        self.team1_box.setStyleSheet("font-size: 18px; font-weight: bold;")
+
+        self.team2_box = QComboBox()
+        self.team2_box.setFixedSize(200, 40)
+        self.team2_box.setStyleSheet("font-size: 18px; font-weight: bold;")
 
         #Team 1 Player Layout
         self.team1_players = [QLabel() for _ in range(5)]
@@ -28,11 +33,10 @@ class MainWindow(QWidget):
 
 
         #Team 2 Player Layout
-        self.team2_box = QComboBox()
         self.team2_players = [QLabel() for _ in range(5)]
         self.team2_overall_label = QLabel()
         self.team2_overall_label.setStyleSheet("font-size: 18px; font-weight: bold;")
-        self.team2_box.setFixedSize(200, 40)
+        
         
         self.team1_box.addItems(team_names)
         self.team1_box.setCurrentIndex(0)
@@ -102,11 +106,16 @@ class MainWindow(QWidget):
             return
         
         self.sim_button.setEnabled(False)
+        self.team1_box.setEnabled(False)
+        self.team2_box.setEnabled(False)
+
         self.sim_button.setText("Simulating...")
         QTimer.singleShot(2000, lambda:simulate_match(team1, team2, self))
         QTimer.singleShot(2000, lambda: self.sim_button.setText("Simulation Complete!"))
         QTimer.singleShot(4000, lambda: self.sim_button.setText("Simulate Match"))
         QTimer.singleShot(4000, lambda: self.sim_button.setEnabled(True))
+        QTimer.singleShot(4000, lambda: self.team1_box.setEnabled(True))
+        QTimer.singleShot(4000, lambda: self.team2_box.setEnabled(True))
         
     def update_roster(self):
         team1 = self.team1_box.currentText()
