@@ -8,11 +8,12 @@
         "name": "Doran",
         "full_name": "Choi Hyeon-joon",
         "age": 24,
-        "birthday": "2000-7-22",
+        "birthday": "2000-07-22",
         "nationality": "South Korea",
 
         "role": "Top Laner",
-        "potential": "Exact Elite",
+        "potential": "Elite",
+        "potential_tier": "Medium",
 
         "overall": 88,
             "macro": 86,
@@ -46,7 +47,7 @@
 
             "personality": 85,
                 "clutch_factor": 86,
-                "tilt_resistance": 85,
+                "composure": 85,
                 "consistency": 85,
                 "communication": 83,
                 "leadership": 81,
@@ -67,7 +68,8 @@
         "nationality": "South Korea",
 
         "role": "Jungler",
-        "potential": "Low Franchise",
+        "potential": "Legend",
+        "potential_tier": "Low",
 
         "overall": 91,
             "macro": 95,
@@ -101,7 +103,7 @@
 
             "personality": 87,
                 "clutch_factor": 90,
-                "tilt_resistance": 88,
+                "composure": 88,
                 "consistency": 88,
                 "communication": 83,
                 "leadership": 83,
@@ -121,7 +123,8 @@
         "nationality": "South Korea",
 
         "role": "Mid Laner",
-        "potential": "Exact Hall of Fame",
+        "potential": "Hall of Fame",
+        "potential_tier": "High",
 
         "overall": 94,
             "macro": 98,
@@ -155,7 +158,7 @@
 
             "personality": 98,
                 "clutch_factor": 99,
-                "tilt_resistance": 98,
+                "composure": 98,
                 "consistency": 98,
                 "communication": 96,
                 "leadership": 99,
@@ -175,7 +178,8 @@
         "nationality": "South Korea",
 
         "role": "Bot Laner",
-        "potential": "Medium Elite",
+        "potential": "Elite",
+        "potential_tier": "Medium",
 
         "overall": 89,
             "macro": 84,
@@ -209,7 +213,7 @@
 
             "personality": 83,
                 "clutch_factor": 84,
-                "tilt_resistance": 82,
+                "composure": 82,
                 "consistency": 83,
                 "communication": 82,
                 "leadership": 84,
@@ -229,12 +233,13 @@
         "nationality": "South Korea",
 
         "role": "Support",
-        "potential": "Medium Franchise",
+        "potential": "Legend",
+        "potential_tier": "High",
 
-        "overall": 93,
+        "overall": 94,
             "macro": 95,
                 "map_awareness": 96,
-                "vision_control": 95,
+                "vision_control": 96,
                 "objective_contribution": 94,
                 "rotations": 95,
                 "shotcalling": 94,
@@ -253,17 +258,17 @@
                 "initiation": 96,
                 "teamfight_adaptability": 93,
             
-            "mechanics": 91,
-                "reaction_time": 90,
-                "combo_execution": 91,
-                "skill_accuracy": 92,
+            "mechanics": 93,
+                "reaction_time": 93,
+                "combo_execution": 92,
+                "skill_accuracy": 94,
                 "input_consistency": 91,
-                "dodging": 90,
+                "dodging": 93,
                 "kiting": 91,
 
             "personality": 91,
                 "clutch_factor": 90,
-                "tilt_resistance": 89,
+                "composure": 89,
                 "consistency": 91,
                 "communication": 94,
                 "leadership": 93,
@@ -276,5 +281,290 @@
                 "counterpick_value": 89
     }
     ]
+  },
+
+  {
+    "name": "Gen.G",
+    "abbreviation":"GEN",
+    "region": "LCK",
+    "players": [
+      { 
+        "name": "Kiin",
+        "full_name": "Kim Gi-in",
+        "age": 25,
+        "birthday": "1999-05-28",
+        "nationality": "South Korea",
+
+        "role": "Top Laner",
+        "potential": "Legend",
+        "potential_tier": "Low",
+
+        "overall": 92,
+            "macro": 92,
+                "map_awareness": 92,
+                "vision_control": 90,
+                "objective_contribution": 92,
+                "rotations": 92,
+                "shotcalling": 91,
+
+            "laning": 92,
+                "farming": 93,
+                "trading": 91,
+                "survivability": 91,
+                "wave_control": 93,
+                "early_impact": 91,
+            
+            "fighting": 92,
+                "positioning": 92,
+                "target_selection": 91,
+                "ability_usage": 92,
+                "initiation": 93,
+                "teamfight_adaptability": 90,
+            
+            "mechanics": 88,
+                "reaction_time": 89,
+                "combo_execution": 90,
+                "skill_accuracy": 88,
+                "input_consistency": 88,
+                "dodging": 89,
+                "kiting": 85,
+
+            "personality": 88,
+                "clutch_factor": 89,
+                "composure": 88,
+                "consistency": 88,
+                "communication": 87,
+                "leadership": 89,
+
+            "champions": 87,
+                "pool_depth": 87,
+                "meta_flexibility": 84,
+                "playstyle_adaptation": 83,
+                "signature_pick_impact": 86,
+                "counterpick_value": 88
+    
+    },
+    { 
+        "name": "Canyon",
+        "full_name": "Kim Geon-bu",
+        "age": 23,
+        "birthday": "2001-06-18",
+        "nationality": "South Korea",
+
+        "role": "Jungler",
+        "potential": "Hall of Fame",
+        "potential_tier": "High",
+
+        "overall": 95,
+            "macro": 97,
+                "map_awareness": 98,
+                "vision_control": 97,
+                "objective_contribution": 99,
+                "rotations": 96,
+                "shotcalling": 94,
+
+            "laning": 94,
+                "farming": 95,
+                "trading": 95,
+                "survivability": 92,
+                "wave_control": 93,
+                "early_impact": 95,
+            
+            "fighting": 94,
+                "positioning": 95,
+                "target_selection": 93,
+                "ability_usage": 94,
+                "initiation": 95,
+                "teamfight_adaptability": 94,
+            
+            "mechanics": 94,
+                "reaction_time": 95,
+                "combo_execution": 95,
+                "skill_accuracy": 94,
+                "input_consistency": 93,
+                "dodging": 93,
+                "kiting": 93,
+
+            "personality": 96,
+                "clutch_factor": 98,
+                "composure": 96,
+                "consistency": 94,
+                "communication": 95,
+                "leadership": 97,
+
+            "champions": 92,
+                "pool_depth": 94,
+                "meta_flexibility": 92,
+                "playstyle_adaptation": 93,
+                "signature_pick_impact": 94,
+                "counterpick_value": 88
+    },
+    { 
+        "name": "Chovy",
+        "full_name": "Jeong Ji-hoon",
+        "age": 23,
+        "birthday": "2001-03-03",
+        "nationality": "South Korea",
+
+        "role": "Mid Laner",
+        "potential": "Legend",
+        "potential_tier": "High",
+
+        "overall": 94,
+            "macro": 94,
+                "map_awareness": 95,
+                "vision_control": 94,
+                "objective_contribution": 94,
+                "rotations": 95,
+                "shotcalling": 92,
+
+            "laning": 96,
+                "farming": 97,
+                "trading": 96,
+                "survivability": 95,
+                "wave_control": 97,
+                "early_impact": 94,
+            
+            "fighting": 93,
+                "positioning": 93,
+                "target_selection": 94,
+                "ability_usage": 93,
+                "initiation": 92,
+                "teamfight_adaptability": 94,
+            
+            "mechanics": 94,
+                "reaction_time": 95,
+                "combo_execution": 94,
+                "skill_accuracy": 94,
+                "input_consistency": 93,
+                "dodging": 94,
+                "kiting": 94,
+
+            "personality": 92,
+                "clutch_factor": 92,
+                "composure": 90,
+                "consistency": 95,
+                "communication": 92,
+                "leadership": 91,
+
+            "champions": 94,
+                "pool_depth": 94,
+                "meta_flexibility": 94,
+                "playstyle_adaptation": 94,
+                "signature_pick_impact": 94,
+                "counterpick_value": 93
+    },
+    { 
+        "name": "Ruler",
+        "full_name": "Park Jae-hyuk",
+        "age": 26,
+        "birthday": "1998-12-29",
+        "nationality": "South Korea",
+
+        "role": "Bot Laner",
+        "potential": "Legend",
+        "potential_tier": "Medium",
+
+        "overall": 92,
+            "macro": 89,
+                "map_awareness": 90,
+                "vision_control": 88,
+                "objective_contribution":89,
+                "rotations": 88,
+                "shotcalling": 89,
+
+            "laning": 92,
+                "farming": 93,
+                "trading": 92,
+                "survivability": 92,
+                "wave_control": 91,
+                "early_impact": 92,
+            
+            "fighting": 93,
+                "positioning": 94,
+                "target_selection": 93,
+                "ability_usage": 92,
+                "initiation": 93,
+                "teamfight_adaptability": 94,
+            
+            "mechanics": 94,
+                "reaction_time": 94,
+                "combo_execution": 94,
+                "skill_accuracy": 93,
+                "input_consistency": 93,
+                "dodging": 93,
+                "kiting": 94,
+
+            "personality": 89,
+                "clutch_factor": 90,
+                "composure": 89,
+                "consistency": 90,
+                "communication": 88,
+                "leadership": 89,
+
+            "champions": 88,
+                "pool_depth": 89,
+                "meta_flexibility": 88,
+                "playstyle_adaptation": 88,
+                "signature_pick_impact": 90,
+                "counterpick_value": 86
+    },
+    { 
+        "name": "Duro",
+        "full_name": "Joo Min-kyu",
+        "age": 22,
+        "birthday": "2002-02-04",
+        "nationality": "South Korea",
+
+        "role": "Support",
+        "potential": "Elite",
+        "potential_tier": "High",
+
+        "overall": 90,
+            "macro": 91,
+                "map_awareness": 91,
+                "vision_control": 96,
+                "objective_contribution": 90,
+                "rotations": 90,
+                "shotcalling": 90,
+
+            "laning": 89,
+                "farming": 89,
+                "trading": 90,
+                "survivability": 90,
+                "wave_control": 88,
+                "early_impact": 90,
+            
+            "fighting": 91,
+                "positioning": 92,
+                "target_selection": 92,
+                "ability_usage": 90,
+                "initiation": 90,
+                "teamfight_adaptability": 92,
+            
+            "mechanics": 90,
+                "reaction_time": 91,
+                "combo_execution": 92,
+                "skill_accuracy": 91,
+                "input_consistency": 93,
+                "dodging": 89,
+                "kiting": 85,
+
+            "personality": 88,
+                "clutch_factor": 90,
+                "composure": 88,
+                "consistency": 88,
+                "communication": 88,
+                "leadership": 87,
+
+            "champions": 85,
+                "pool_depth": 88,
+                "meta_flexibility": 86,
+                "playstyle_adaptation": 85,
+                "signature_pick_impact": 89,
+                "counterpick_value": 78
+    }
+    ]
   }
+
 ]
