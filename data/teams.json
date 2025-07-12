@@ -15,29 +15,28 @@
         "potential": "Exact Elite",
 
         "overall": 88,
-
-            "macro/awareness": 86,
+            "macro": 86,
                 "map_awareness": 86,
                 "vision_control": 83,
                 "objective_contribution": 85,
                 "rotations": 85,
                 "shotcalling": 85,
 
-            "laning/early Game": 85,
+            "laning": 85,
                 "farming": 86,
                 "trading": 84,
                 "survivability": 85,
                 "wave_control": 86,
                 "early_impact": 83,
             
-            "fighting/skirmishing": 87,
+            "fighting": 87,
                 "positioning": 87,
                 "target_selection": 86,
                 "ability_usage": 88,
                 "initiation": 90,
                 "teamfight_adaptability": 86,
             
-            "micro/mechanics": 86,
+            "mechanics": 86,
                 "reaction_time": 88,
                 "combo_execution": 87,
                 "skill_accuracy": 86,
@@ -45,14 +44,14 @@
                 "dodging": 85,
                 "kiting": 83,
 
-            "mental/personality": 85,
+            "personality": 85,
                 "clutch_factor": 86,
                 "tilt_resistance": 85,
                 "consistency": 85,
                 "communication": 83,
                 "leadership": 81,
 
-            "champions/versatility": 81,
+            "champions": 81,
                 "pool_depth": 83,
                 "meta_flexibility": 81,
                 "playstyle_adaptation": 80,
@@ -68,7 +67,51 @@
         "nationality": "South Korea",
 
         "role": "Jungler",
-        "potential": "Medium Franchise"
+        "potential": "Low Franchise",
+
+        "overall": 91,
+            "macro": 95,
+                "map_awareness": 97,
+                "vision_control": 95,
+                "objective_contribution": 99,
+                "rotations": 93,
+                "shotcalling": 91,
+
+            "laning": 90,
+                "farming": 89,
+                "trading": 91,
+                "survivability": 91,
+                "wave_control": 87,
+                "early_impact": 90,
+            
+            "fighting": 91,
+                "positioning": 90,
+                "target_selection": 92,
+                "ability_usage": 94,
+                "initiation": 94,
+                "teamfight_adaptability": 85,
+            
+            "mechanics": 89,
+                "reaction_time": 92,
+                "combo_execution": 91,
+                "skill_accuracy": 90,
+                "input_consistency": 91,
+                "dodging": 87,
+                "kiting": 81,
+
+            "personality": 87,
+                "clutch_factor": 90,
+                "tilt_resistance": 88,
+                "consistency": 88,
+                "communication": 83,
+                "leadership": 83,
+
+            "champions": 86,
+                "pool_depth": 88,
+                "meta_flexibility": 87,
+                "playstyle_adaptation": 87,
+                "signature_pick_impact": 91,
+                "counterpick_value": 78
     },
     { 
         "name": "Faker",
@@ -78,7 +121,51 @@
         "nationality": "South Korea",
 
         "role": "Mid Laner",
-        "potential": "Exact Hall of Fame"
+        "potential": "Exact Hall of Fame",
+
+        "overall": 94,
+            "macro": 98,
+                "map_awareness": 99,
+                "vision_control": 96,
+                "objective_contribution": 98,
+                "rotations": 98,
+                "shotcalling": 99,
+
+            "laning": 92,
+                "farming": 92,
+                "trading": 91,
+                "survivability": 95,
+                "wave_control": 91,
+                "early_impact": 90,
+            
+            "fighting": 92,
+                "positioning": 94,
+                "target_selection": 92,
+                "ability_usage": 93,
+                "initiation": 91,
+                "teamfight_adaptability": 92,
+            
+            "mechanics": 93,
+                "reaction_time": 94,
+                "combo_execution": 93,
+                "skill_accuracy": 92,
+                "input_consistency": 95,
+                "dodging": 96,
+                "kiting": 90,
+
+            "personality": 98,
+                "clutch_factor": 99,
+                "tilt_resistance": 98,
+                "consistency": 98,
+                "communication": 96,
+                "leadership": 99,
+
+            "champions": 91,
+                "pool_depth": 92,
+                "meta_flexibility": 92,
+                "playstyle_adaptation": 92,
+                "signature_pick_impact": 94,
+                "counterpick_value": 87
     },
     { 
         "name": "Gumayusi",
@@ -88,7 +175,51 @@
         "nationality": "South Korea",
 
         "role": "Bot Laner",
-        "potential": "High Elite"
+        "potential": "Medium Elite",
+
+        "overall": 89,
+            "macro": 84,
+                "map_awareness": 84,
+                "vision_control": 82,
+                "objective_contribution": 86,
+                "rotations": 85,
+                "shotcalling": 83,
+
+            "laning": 89,
+                "farming": 90,
+                "trading": 89,
+                "survivability": 89,
+                "wave_control": 89,
+                "early_impact": 89,
+            
+            "fighting": 90,
+                "positioning": 91,
+                "target_selection": 88,
+                "ability_usage": 90,
+                "initiation": 88,
+                "teamfight_adaptability": 91,
+            
+            "mechanics": 91,
+                "reaction_time": 91,
+                "combo_execution": 89,
+                "skill_accuracy": 90,
+                "input_consistency": 92,
+                "dodging": 89,
+                "kiting": 96,
+
+            "personality": 83,
+                "clutch_factor": 84,
+                "tilt_resistance": 82,
+                "consistency": 83,
+                "communication": 82,
+                "leadership": 84,
+
+            "champions": 83,
+                "pool_depth": 84,
+                "meta_flexibility": 82,
+                "playstyle_adaptation": 82,
+                "signature_pick_impact": 85,
+                "counterpick_value": 82
     },
     { 
         "name": "Keria",
@@ -98,7 +229,51 @@
         "nationality": "South Korea",
 
         "role": "Support",
-        "potential": "High Franchise"
+        "potential": "Medium Franchise",
+
+        "overall": 93,
+            "macro": 95,
+                "map_awareness": 96,
+                "vision_control": 95,
+                "objective_contribution": 94,
+                "rotations": 95,
+                "shotcalling": 94,
+
+            "laning": 91,
+                "farming": 86,
+                "trading": 93,
+                "survivability": 91,
+                "wave_control": 91,
+                "early_impact": 93,
+            
+            "fighting": 94,
+                "positioning": 92,
+                "target_selection": 94,
+                "ability_usage": 95,
+                "initiation": 96,
+                "teamfight_adaptability": 93,
+            
+            "mechanics": 91,
+                "reaction_time": 90,
+                "combo_execution": 91,
+                "skill_accuracy": 92,
+                "input_consistency": 91,
+                "dodging": 90,
+                "kiting": 91,
+
+            "personality": 91,
+                "clutch_factor": 90,
+                "tilt_resistance": 89,
+                "consistency": 91,
+                "communication": 94,
+                "leadership": 93,
+
+            "champions": 93,
+                "pool_depth": 93,
+                "meta_flexibility": 96,
+                "playstyle_adaptation": 94,
+                "signature_pick_impact": 93,
+                "counterpick_value": 89
     }
     ]
   }
